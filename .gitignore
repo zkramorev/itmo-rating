@@ -1,0 +1,7 @@
+.vscode
+db.sqlite3
+**/migration/**
+env
+my_website/itmo_rating/__pycache__
+*/__pycache__
+__init__.*
